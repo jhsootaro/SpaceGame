@@ -108,8 +108,9 @@ color:black;
 }
 
 .description p {
-  font-size: 25px;
+  font-size: 18px;
   color:white;
+  font-style:italic;
  }
 
 .description ul {
